@@ -1,1 +1,2 @@
 feature 2 file 1
+Updated feature 2 file 1
